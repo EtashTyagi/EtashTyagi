@@ -1,5 +1,11 @@
-### Hi there 👋
-
+## Hi there 👋
+### I am a student at IIITD
+### I know 
+- Web Dev (nodejs, reactjs, vanilla, bootstrap)
+- Android Dev (Android Studio, Java)
+- C/C++
+- Python
+- MATLAB, R
 <!--
 **EtashTyagi/EtashTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
