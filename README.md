@@ -6,6 +6,8 @@
 - C/C++
 - Python
 - MATLAB, R
+
+#### [Personal Website](https://etashtyagi.github.io/personal_website)
 <!--
 **EtashTyagi/EtashTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
