@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I am a student at IIITD
 ### I know 
-- Web Dev (nodejs, reactjs, vanilla, bootstrap)
+- Web Dev (Django, nodejs, reactjs, vanilla, bootstrap)
 - Android Dev (Android Studio, Java)
 - C/C++
 - Python
