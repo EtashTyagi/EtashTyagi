@@ -1,14 +1,13 @@
 ## Hi there 👋
 ### I am a student at IIITD
 ### I know 
-- Web Dev (Django, reactjs, vanilla, bootstrap)
+- Web Dev (Django, reactjs, spring, vanilla, bootstrap, mui)
 - Android Dev (Android Studio, Java)
 - C/C++
 - Python
 - MATLAB, R
 
 #### [Personal Website](https://etashtyagi.in)
-#### (https://git.etashtyagi.in)
 <!--
 **EtashTyagi/EtashTyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
